@@ -1,0 +1,37 @@
+[
+    {
+        "id": "cornifer",
+        "nome": "Cornifer",
+        "foto": "https://cdn.wikimg.net/en/hkwiki/images/f/ff/Cornifer.png",
+        "descricao": "Cartógrafo excêntrico que percorre Hallownest desenhando o mapa de cada região. Dá para encontrá-lo seguindo o rastro de papéis e o som do seu cantarolar — menos em Deepnest, onde fica em silêncio por medo das criaturas. É casado com Iselda, que vende os mapas na loja de Dirtmouth.",
+        "dica": "Um personagem que canta e faz anotação dos lugares que passa"
+    },
+    {
+        "id": "hornet",
+        "nome": "Hornet",
+        "foto": "https://cdn.wikimg.net/en/hkwiki/images/1/16/Hornet_Idle.png",
+        "descricao": "Protetora misteriosa das ruínas de Hallownest, filha de Herrah, a Fera, soberana de Deepnest, com o Rei Pálido. Luta com uma agulha presa a um fio de seda e desafia o Cavaleiro em Greenpath e em Kingdom's Edge para testar se ele é digno.",
+        "dica": "Filha das aranhas, ela protege as ruínas do reino com agulha e linha"
+    },
+    {
+        "id": "zote",
+        "nome": "Zote",
+        "foto": "https://cdn.wikimg.net/en/hkwiki/images/e/ee/Zote_Idle.png",
+        "descricao": "Autoproclamado cavaleiro, arrogante e bem fraco, que chegou a Hallownest vindo de fora do reino. Empunha a Life Ender, um ferrão de madeira incapaz de causar dano, e adora recitar seus 57 Preceitos. O Cavaleiro precisa salvá-lo mais de uma vez — e ele nunca admite que precisou de ajuda.",
+        "dica": "Um cavaleiro que se diz invencível, mas vive precisando ser resgatado"
+    },
+    {
+        "id": "quirrel",
+        "nome": "Quirrel",
+        "foto": "https://cdn.wikimg.net/en/hkwiki/images/c/cd/Quirrel_Idle.png",
+        "descricao": "Explorador curioso e gentil que vaga por Hallownest admirando suas ruínas. Serviu a Monomon, a Professora, e por isso perdeu quase todas as lembranças — voltou ao reino sem saber exatamente o motivo. Sua jornada termina em paz, contemplando o Blue Lake.",
+        "dica": "Um viajante sorridente que perdeu as memórias e encontra paz à beira de um lago"
+    },
+    {
+        "id": "grimm",
+        "nome": "Grimm",
+        "foto": "https://cdn.wikimg.net/en/hkwiki/images/b/ba/Grimm_Idle.png",
+        "descricao": "Mestre da Trupe Grimm, um circo sombrio que viaja entre reinos. Chega a Dirtmouth quando a Lanterna do Pesadelo é acesa e entrega ao Cavaleiro o Grimmchild, que precisa coletar chamas escarlates para completar o Ritual. Em sonho, revela sua forma mais poderosa: o Rei do Pesadelo.",
+        "dica": "O mestre de um circo sombrio que chega quando a lanterna do pesadelo é acesa"
+    }
+]
